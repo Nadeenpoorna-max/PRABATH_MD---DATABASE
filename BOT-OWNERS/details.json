@@ -22,14 +22,13 @@
 
 
   "urls": {
-    "public-beta": "https://chat.whatsapp.com/Bnj9lNXgTjbFhooKIE63cm",
-    "community": "https://chat.whatsapp.com/LN7x1jLi65dJmM53ACxE9J", 
-    "channel": "https://whatsapp.com/channel/0029VaESLLfIyPtJmHSFNe1E",
-    "official-website": "https://www.prabath-md-official-web.com",
-    "github": "https://github.com/prabathLK/PRABATH-MD",
+    "public-beta": "https://chat.whatsapp.com/Bnj9lNXgTjbFyooKIE63cm",
+    "community": "https://whatsapp.com/channel/0029VagN2qW3gvWUBhsjcn3I", 
+    "channel": "https://whatsapp.com/channel/0029VagN2qW3gvWUBhsjcn3I",
+    "github": "https://github.com/NadeenPoorna-max/NADEEN_MD",
     "owners": "Nadeen Poorna",
-    "my-channel": "https://whatsapp.com/channel/0029VaRvXg9HVvTXXQJ71a0s",
-    "our-email": "prabathmdofficial@gmail.com"
+    "my-channel": "https://whatsapp.com/channel/0029VagN2qW3gvWUBhsjcn3I",
+    "our-email": "nadeenpoorna5@gmail.com"
   },
   "verify": {
     "code": "1029384756",
@@ -37,11 +36,11 @@
   },
   "botData": {
     "buttoncondition":"configdb.BUTTONS == 'true' && !m.id?.startsWith('3EB') && !m.id?.startsWith('3A')",
-    "startImage":"https://telegra.ph/file/3ea573f530caf18444d36.jpg",
+    "startImage":"https://telegra.ph/file/f2a6ee1ab649a2fb72708.jpg",
     "extraText":"-",
-    "anti-bot-id": "BAE5,QUEENAMDI,RGNK,CYBER,ZEROTWO,QUEENELISA,SUHAIL",
-    "version":"2.1.1",
-    "betaVersion":"2.1.1 (beta)",
+    "anti-bot-id": "BAE5,QUEENAMDI,RGNK,CYBER,ZEROTWO,QUEENELISA,SUHAIL,DINKA",
+    "version":"1.0.0",
+    "betaVersion":"1.0.0 (beta)",
     "isBetaUsers":"enter-numbers",
     "isBetaTestTime":"false",
     "isOwnerReactStatus":"true",
